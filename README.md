@@ -1,4 +1,4 @@
-**GDSC DEV Assigment********
+**GDSC DEV Assigment**
 
 To run the project :
   
